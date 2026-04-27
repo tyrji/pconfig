@@ -1,0 +1,4 @@
+# Winter 自用规则
+
+# 解决 cloudflared QUIC 被 surge reject 的问题
+PROCESS-NAME,/opt/homebrew/Cellar/cloudflared/2026.3.0/bin/cloudflared
