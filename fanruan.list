@@ -1,7 +1,10 @@
 # 帆软
-DOMAIN-SUFFIX,fanraun.com
+DOMAIN-SUFFIX,fanruan.com
 DOMAIN-SUFFIX,jiandaoyun.com
 DOMAIN-SUFFIX,fineres.com
 DOMAIN-SUFFIX,jdydevelop.com
 DOMAIN-SUFFIX,frjdy.com
 DOMAIN-SUFFIX,finereporthelp.com
+
+# jandar
+IP-CIDR,43.161.246.120/32,no-resolve
