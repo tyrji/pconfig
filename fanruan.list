@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,jdydevelop.com
 DOMAIN-SUFFIX,frjdy.com
 DOMAIN-SUFFIX,finereporthelp.com
 
+IP-CIDR,43.130.36.39/32,no-resolve
+
 # jandar
 IP-CIDR,43.161.246.120/32,no-resolve
 DOMAIN-SUFFIX,jander.app
